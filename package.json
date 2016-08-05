@@ -3,6 +3,9 @@
   "version": "1.0.14",
   "description": "broccoli plugin to rewrite a source tree from an asset map.",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "test": "mocha tests",
     "test:cover": "istanbul cover ./node_modules/mocha/bin/_mocha tests"
